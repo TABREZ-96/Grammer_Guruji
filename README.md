@@ -31,6 +31,9 @@ To set up Grammar Guruji, follow these steps:
    ```
 
 2. Install the required packages:
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 
